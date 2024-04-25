@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Work\u0026Game Station\\Desktop\\vize\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B093F50-A5BF-4D41-8559-EEEFD1080E99}|vize\\vize.csproj|c:\\users\\work\u0026game station\\desktop\\vize\\vize\\anasayfaspx.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6B093F50-A5BF-4D41-8559-EEEFD1080E99}|vize\\vize.csproj|solutionrelative:vize\\anasayfaspx.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B093F50-A5BF-4D41-8559-EEEFD1080E99}|vize\\vize.csproj|c:\\users\\work\u0026game station\\desktop\\vize\\vize\\ogrenci.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6B093F50-A5BF-4D41-8559-EEEFD1080E99}|vize\\vize.csproj|solutionrelative:vize\\ogrenci.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "anasayfaspx.aspx",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\vize\\vize\\anasayfaspx.aspx",
+              "RelativeDocumentMoniker": "vize\\anasayfaspx.aspx",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\vize\\vize\\anasayfaspx.aspx",
+              "RelativeToolTip": "vize\\anasayfaspx.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-25T09:40:30.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ogrenci.aspx",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\vize\\vize\\ogrenci.aspx",
+              "RelativeDocumentMoniker": "vize\\ogrenci.aspx",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\vize\\vize\\ogrenci.aspx",
+              "RelativeToolTip": "vize\\ogrenci.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-25T09:36:13.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
