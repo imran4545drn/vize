@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="okulModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="admin">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="ad" Type="varchar" MaxLength="50" />
+          <Property Name="sifre" Type="varchar" MaxLength="50" />
+          <Property Name="Role" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="idari">
+          <Key>
+            <PropertyRef Name="idariid" />
+          </Key>
+          <Property Name="idariid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="idariadsoyad" Type="varchar" MaxLength="50" />
+          <Property Name="idariunvan" Type="varchar" MaxLength="50" />
+          <Property Name="idaribasla" Type="datetime" />
+          <Property Name="idaricıkıs" Type="datetime" />
+        </EntityType>
+        <EntityType Name="Ogrenci">
+          <Key>
+            <PropertyRef Name="ogrenciid" />
+          </Key>
+          <Property Name="ogrenciid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="ogrenciad" Type="varchar" MaxLength="50" />
+          <Property Name="ogrencisoyad" Type="varchar" MaxLength="50" />
+          <Property Name="ogrencikredi" Type="int" />
+          <Property Name="ogrencigiris" Type="datetime" />
+          <Property Name="ogrencicıkıs" Type="datetime" />
+        </EntityType>
+        <EntityType Name="Ogretmen">
+          <Key>
+            <PropertyRef Name="ogretmenid" />
+          </Key>
+          <Property Name="ogretmenid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="ogretmenad" Type="varchar" MaxLength="50" />
+          <Property Name="ogretmensoyad" Type="varchar" MaxLength="50" />
+          <Property Name="ogretmengiris" Type="datetime" />
+          <Property Name="ogretmencıkıs" Type="datetime" />
+        </EntityType>
+        <EntityContainer Name="okulModelStoreContainer">
+          <EntitySet Name="admin" EntityType="Self.admin" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="idari" EntityType="Self.idari" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Ogrenci" EntityType="Self.Ogrenci" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Ogretmen" EntityType="Self.Ogretmen" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="okulModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="admin">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="sifre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Role" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="idari">
+          <Key>
+            <PropertyRef Name="idariid" />
+          </Key>
+          <Property Name="idariid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="idariadsoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="idariunvan" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="idaribasla" Type="DateTime" Precision="3" />
+          <Property Name="idaricıkıs" Type="DateTime" Precision="3" />
+        </EntityType>
+        <EntityType Name="Ogrenci">
+          <Key>
+            <PropertyRef Name="ogrenciid" />
+          </Key>
+          <Property Name="ogrenciid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ogrenciad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ogrencisoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ogrencikredi" Type="Int32" />
+          <Property Name="ogrencigiris" Type="DateTime" Precision="3" />
+          <Property Name="ogrencicıkıs" Type="DateTime" Precision="3" />
+        </EntityType>
+        <EntityType Name="Ogretmen">
+          <Key>
+            <PropertyRef Name="ogretmenid" />
+          </Key>
+          <Property Name="ogretmenid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ogretmenad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ogretmensoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ogretmengiris" Type="DateTime" Precision="3" />
+          <Property Name="ogretmencıkıs" Type="DateTime" Precision="3" />
+        </EntityType>
+        <EntityContainer Name="okulEntities2" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="admin" EntityType="Self.admin" />
+          <EntitySet Name="idari" EntityType="Self.idari" />
+          <EntitySet Name="Ogrenci" EntityType="Self.Ogrenci" />
+          <EntitySet Name="Ogretmen" EntityType="Self.Ogretmen" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="okulModelStoreContainer" CdmEntityContainer="okulEntities2">
+          <EntitySetMapping Name="admin">
+            <EntityTypeMapping TypeName="okulModel.admin">
+              <MappingFragment StoreEntitySet="admin">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="ad" ColumnName="ad" />
+                <ScalarProperty Name="sifre" ColumnName="sifre" />
+                <ScalarProperty Name="Role" ColumnName="Role" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="idari">
+            <EntityTypeMapping TypeName="okulModel.idari">
+              <MappingFragment StoreEntitySet="idari">
+                <ScalarProperty Name="idariid" ColumnName="idariid" />
+                <ScalarProperty Name="idariadsoyad" ColumnName="idariadsoyad" />
+                <ScalarProperty Name="idariunvan" ColumnName="idariunvan" />
+                <ScalarProperty Name="idaribasla" ColumnName="idaribasla" />
+                <ScalarProperty Name="idaricıkıs" ColumnName="idaricıkıs" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Ogrenci">
+            <EntityTypeMapping TypeName="okulModel.Ogrenci">
+              <MappingFragment StoreEntitySet="Ogrenci">
+                <ScalarProperty Name="ogrenciid" ColumnName="ogrenciid" />
+                <ScalarProperty Name="ogrenciad" ColumnName="ogrenciad" />
+                <ScalarProperty Name="ogrencisoyad" ColumnName="ogrencisoyad" />
+                <ScalarProperty Name="ogrencikredi" ColumnName="ogrencikredi" />
+                <ScalarProperty Name="ogrencigiris" ColumnName="ogrencigiris" />
+                <ScalarProperty Name="ogrencicıkıs" ColumnName="ogrencicıkıs" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Ogretmen">
+            <EntityTypeMapping TypeName="okulModel.Ogretmen">
+              <MappingFragment StoreEntitySet="Ogretmen">
+                <ScalarProperty Name="ogretmenid" ColumnName="ogretmenid" />
+                <ScalarProperty Name="ogretmenad" ColumnName="ogretmenad" />
+                <ScalarProperty Name="ogretmensoyad" ColumnName="ogretmensoyad" />
+                <ScalarProperty Name="ogretmengiris" ColumnName="ogretmengiris" />
+                <ScalarProperty Name="ogretmencıkıs" ColumnName="ogretmencıkıs" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

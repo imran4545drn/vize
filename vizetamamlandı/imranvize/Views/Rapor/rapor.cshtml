@@ -1,0 +1,72 @@
+﻿
+@model ViewModel
+
+@{
+    ViewBag.Title = "rapor";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+
+<table class="table table-bordered">
+    <tr>
+        <th> Öğretmen Adı</th>
+        <th> Öğretmen Soyadı</th>
+        <th> Öğretmen Giriş Tarihi</th>
+        <th> Öğretmen Çıkış Tarihi</th>
+    </tr>
+<tbody>
+    @foreach (var ögr in Model.Ogretmens)
+    {
+        <tr>
+            <td>@ögr.ogretmenad</td>
+            <td>@ögr.ogretmensoyad</td>
+            <td>@ögr.ogretmengiris</td>
+            <td>@ögr.ogretmencıkıs</td>
+
+
+        </tr>
+    }
+</tbody>
+</table>
+<table class="table table-bordered">
+    <tr>
+        <th> Öğrenci adı</th>
+        <th> Öğrenci soyadı</th>
+        <th> Öğrenci Giriş Tarihi</th>
+        <th> Öğrenci Mezun Tarihi</th>
+    </tr>
+    <tbody>
+        @foreach (var ögr in Model.ogrencis)
+        {
+            <tr>
+                <td>@ögr.ogrenciad</td>
+                <td>@ögr.ogrencisoyad</td>
+                <td>@ögr.ogrencigiris</td>
+                <td>@ögr.ogrencicıkıs</td>
+
+
+            </tr>
+        }
+    </tbody>
+</table>
+<table class="table table-bordered">
+    <tr>
+        <th> Personel adı Soyadı</th>
+        
+        <th> Personel Giriş Tarihi</th>
+        <th> Personel Çıkış Tarihi</th>
+    </tr>
+    <tbody>
+        @foreach (var ögr in Model.idaris)
+        {
+            <tr>
+                <td>@ögr.idariadsoyad</td>
+                <td>@ögr.idaribasla</td>
+                <td>@ögr.idaricıkıs</td>
+               
+
+
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,34 @@
+﻿@using imranvize.Models.entity
+@model List<Ogrenci>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>adı</th>
+        <th>soyad</th>
+        <th>kredi</th>
+        <th>Giriş</th>
+        <th>Çıkış</th>
+
+    </tr>
+    <tbody>
+        @foreach (var ögr in Model)
+        {
+            <tr>
+                <td>@ögr.ogrenciad</td>
+                <td>@ögr.ogrencisoyad</td>
+                <td>@ögr.ogrencikredi</td>
+                <td>@ögr.ogrencigiris</td>
+                <td>@ögr.ogrencicıkıs</td>
+
+                <td><a href="/Ogrenci/SIL/@ögr.ogrenciid" class="btn btn-danger">SİL</a></td>
+                <td><a href="/Ogrenci/ogrenciguncelle/@ögr.ogrenciid" class="btn btn-success">GÜNCELLE</a></td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="/Ogrenci/Yeniogrenci/" class="btn btn-primary">YENİ ÖĞRENCİ EKLE</a>

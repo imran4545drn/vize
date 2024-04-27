@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="okulModelStoreContainer" CdmEntityContainer="okulEntities2">
+    <EntitySetMapping Name="admin">
+      <EntityTypeMapping TypeName="okulModel.admin">
+        <MappingFragment StoreEntitySet="admin">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="ad" ColumnName="ad" />
+          <ScalarProperty Name="sifre" ColumnName="sifre" />
+          <ScalarProperty Name="Role" ColumnName="Role" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="idari">
+      <EntityTypeMapping TypeName="okulModel.idari">
+        <MappingFragment StoreEntitySet="idari">
+          <ScalarProperty Name="idariid" ColumnName="idariid" />
+          <ScalarProperty Name="idariadsoyad" ColumnName="idariadsoyad" />
+          <ScalarProperty Name="idariunvan" ColumnName="idariunvan" />
+          <ScalarProperty Name="idaribasla" ColumnName="idaribasla" />
+          <ScalarProperty Name="idaricıkıs" ColumnName="idaricıkıs" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ogrenci">
+      <EntityTypeMapping TypeName="okulModel.Ogrenci">
+        <MappingFragment StoreEntitySet="Ogrenci">
+          <ScalarProperty Name="ogrenciid" ColumnName="ogrenciid" />
+          <ScalarProperty Name="ogrenciad" ColumnName="ogrenciad" />
+          <ScalarProperty Name="ogrencisoyad" ColumnName="ogrencisoyad" />
+          <ScalarProperty Name="ogrencikredi" ColumnName="ogrencikredi" />
+          <ScalarProperty Name="ogrencigiris" ColumnName="ogrencigiris" />
+          <ScalarProperty Name="ogrencicıkıs" ColumnName="ogrencicıkıs" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ogretmen">
+      <EntityTypeMapping TypeName="okulModel.Ogretmen">
+        <MappingFragment StoreEntitySet="Ogretmen">
+          <ScalarProperty Name="ogretmenid" ColumnName="ogretmenid" />
+          <ScalarProperty Name="ogretmenad" ColumnName="ogretmenad" />
+          <ScalarProperty Name="ogretmensoyad" ColumnName="ogretmensoyad" />
+          <ScalarProperty Name="ogretmengiris" ColumnName="ogretmengiris" />
+          <ScalarProperty Name="ogretmencıkıs" ColumnName="ogretmencıkıs" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="okulModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="admin">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="sifre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Role" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="idari">
+    <Key>
+      <PropertyRef Name="idariid" />
+    </Key>
+    <Property Name="idariid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="idariadsoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="idariunvan" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="idaribasla" Type="DateTime" Precision="3" />
+    <Property Name="idaricıkıs" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="Ogrenci">
+    <Key>
+      <PropertyRef Name="ogrenciid" />
+    </Key>
+    <Property Name="ogrenciid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ogrenciad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ogrencisoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ogrencikredi" Type="Int32" />
+    <Property Name="ogrencigiris" Type="DateTime" Precision="3" />
+    <Property Name="ogrencicıkıs" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="Ogretmen">
+    <Key>
+      <PropertyRef Name="ogretmenid" />
+    </Key>
+    <Property Name="ogretmenid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ogretmenad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ogretmensoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ogretmengiris" Type="DateTime" Precision="3" />
+    <Property Name="ogretmencıkıs" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="okulEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="admin" EntityType="Self.admin" />
+    <EntitySet Name="idari" EntityType="Self.idari" />
+    <EntitySet Name="Ogrenci" EntityType="Self.Ogrenci" />
+    <EntitySet Name="Ogretmen" EntityType="Self.Ogretmen" />
+  </EntityContainer>
+</Schema>

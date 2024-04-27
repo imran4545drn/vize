@@ -1,0 +1,392 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\views\\guvenlik\\giris.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|solutionrelative:imranvize\\views\\guvenlik\\giris.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|c:\\users\\work\u0026game station\\desktop\\imranvize\\imranvize\\views\\idari\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|solutionrelative:imranvize\\views\\idari\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\views\\anasayfa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|solutionrelative:imranvize\\views\\anasayfa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\views\\idari\\idariguncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|solutionrelative:imranvize\\views\\idari\\idariguncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|c:\\users\\work\u0026game station\\desktop\\imranvize\\imranvize\\guvenlik\\idari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|solutionrelative:imranvize\\guvenlik\\idari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|solutionrelative:imranvize\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\views\\anasayfa\\yeniogretmen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|solutionrelative:imranvize\\views\\anasayfa\\yeniogretmen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|solutionrelative:imranvize\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|c:\\users\\work\u0026game station\\desktop\\imranvize\\imranvize\\views\\rapor\\rapor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|solutionrelative:imranvize\\views\\rapor\\rapor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|c:\\users\\work\u0026game station\\desktop\\imranvize\\imranvize\\controllers\\raporcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|solutionrelative:imranvize\\controllers\\raporcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|c:\\users\\work\u0026game station\\desktop\\imranvize\\imranvize\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|solutionrelative:imranvize\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\views\\anasayfa\\ogretmenguncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|solutionrelative:imranvize\\views\\anasayfa\\ogretmenguncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\controllers\\anasayfacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|solutionrelative:imranvize\\controllers\\anasayfacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\views\\ogrenci\\ogrenciguncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|solutionrelative:imranvize\\views\\ogrenci\\ogrenciguncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\controllers\\idaricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|solutionrelative:imranvize\\controllers\\idaricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|solutionrelative:imranvize\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|solutionrelative:imranvize\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\controllers\\guvenlikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|solutionrelative:imranvize\\controllers\\guvenlikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|c:\\users\\work\u0026game station\\desktop\\imranvize\\imranvize\\models\\entity\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|solutionrelative:imranvize\\models\\entity\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\views\\idari\\yeniidari.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|solutionrelative:imranvize\\views\\idari\\yeniidari.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\views\\ogrenci\\yeniogrenci.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E81169A-BFFC-4D7B-81A7-DED3CB11F822}|imranvize\\imranvize.csproj|solutionrelative:imranvize\\views\\ogrenci\\yeniogrenci.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\ViewModel.cs",
+              "RelativeDocumentMoniker": "imranvize\\ViewModel.cs",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\ViewModel.cs",
+              "RelativeToolTip": "imranvize\\ViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:44:52.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "rapor.cshtml",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\Rapor\\rapor.cshtml",
+              "RelativeDocumentMoniker": "imranvize\\Views\\Rapor\\rapor.cshtml",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\Rapor\\rapor.cshtml",
+              "RelativeToolTip": "imranvize\\Views\\Rapor\\rapor.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T16:16:45.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RaporController.cs",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Controllers\\RaporController.cs",
+              "RelativeDocumentMoniker": "imranvize\\Controllers\\RaporController.cs",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Controllers\\RaporController.cs",
+              "RelativeToolTip": "imranvize\\Controllers\\RaporController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:15:17.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Models\\entity\\Model1.edmx",
+              "RelativeDocumentMoniker": "imranvize\\Models\\entity\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Models\\entity\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "imranvize\\Models\\entity\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-04-27T16:05:43.724Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "idari.cs",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Guvenlik\\idari.cs",
+              "RelativeDocumentMoniker": "imranvize\\Guvenlik\\idari.cs",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Guvenlik\\idari.cs",
+              "RelativeToolTip": "imranvize\\Guvenlik\\idari.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T13:15:40.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\idari\\Index.cshtml",
+              "RelativeDocumentMoniker": "imranvize\\Views\\idari\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\idari\\Index.cshtml",
+              "RelativeToolTip": "imranvize\\Views\\idari\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T18:25:15.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Giris.cshtml",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\Guvenlik\\Giris.cshtml",
+              "RelativeDocumentMoniker": "imranvize\\Views\\Guvenlik\\Giris.cshtml",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\Guvenlik\\Giris.cshtml",
+              "RelativeToolTip": "imranvize\\Views\\Guvenlik\\Giris.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T10:43:11.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GuvenlikController.cs",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Controllers\\GuvenlikController.cs",
+              "RelativeDocumentMoniker": "imranvize\\Controllers\\GuvenlikController.cs",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Controllers\\GuvenlikController.cs",
+              "RelativeToolTip": "imranvize\\Controllers\\GuvenlikController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:42:30.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Web.config",
+              "RelativeDocumentMoniker": "imranvize\\Web.config",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Web.config",
+              "RelativeToolTip": "imranvize\\Web.config",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAE0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-27T10:39:17.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ogrenciguncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\Ogrenci\\ogrenciguncelle.cshtml",
+              "RelativeDocumentMoniker": "imranvize\\Views\\Ogrenci\\ogrenciguncelle.cshtml",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\Ogrenci\\ogrenciguncelle.cshtml",
+              "RelativeToolTip": "imranvize\\Views\\Ogrenci\\ogrenciguncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T10:02:51.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "idariguncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\idari\\idariguncelle.cshtml",
+              "RelativeDocumentMoniker": "imranvize\\Views\\idari\\idariguncelle.cshtml",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\idari\\idariguncelle.cshtml",
+              "RelativeToolTip": "imranvize\\Views\\idari\\idariguncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T09:53:43.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ogretmenguncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\anasayfa\\Ogretmenguncelle.cshtml",
+              "RelativeDocumentMoniker": "imranvize\\Views\\anasayfa\\Ogretmenguncelle.cshtml",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\anasayfa\\Ogretmenguncelle.cshtml",
+              "RelativeToolTip": "imranvize\\Views\\anasayfa\\Ogretmenguncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T09:35:00.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Yeniidari.cshtml",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\idari\\Yeniidari.cshtml",
+              "RelativeDocumentMoniker": "imranvize\\Views\\idari\\Yeniidari.cshtml",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\idari\\Yeniidari.cshtml",
+              "RelativeToolTip": "imranvize\\Views\\idari\\Yeniidari.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T19:20:34.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Yeniogrenci.cshtml",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\Ogrenci\\Yeniogrenci.cshtml",
+              "RelativeDocumentMoniker": "imranvize\\Views\\Ogrenci\\Yeniogrenci.cshtml",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\Ogrenci\\Yeniogrenci.cshtml",
+              "RelativeToolTip": "imranvize\\Views\\Ogrenci\\Yeniogrenci.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T19:25:19.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Yeniogretmen.cshtml",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\anasayfa\\Yeniogretmen.cshtml",
+              "RelativeDocumentMoniker": "imranvize\\Views\\anasayfa\\Yeniogretmen.cshtml",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\anasayfa\\Yeniogretmen.cshtml",
+              "RelativeToolTip": "imranvize\\Views\\anasayfa\\Yeniogretmen.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T19:09:28.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "idariController.cs",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Controllers\\idariController.cs",
+              "RelativeDocumentMoniker": "imranvize\\Controllers\\idariController.cs",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Controllers\\idariController.cs",
+              "RelativeToolTip": "imranvize\\Controllers\\idariController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:24:07.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\Ogrenci\\Index.cshtml",
+              "RelativeDocumentMoniker": "imranvize\\Views\\Ogrenci\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\Ogrenci\\Index.cshtml",
+              "RelativeToolTip": "imranvize\\Views\\Ogrenci\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T18:10:22.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "anasayfaController.cs",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Controllers\\anasayfaController.cs",
+              "RelativeDocumentMoniker": "imranvize\\Controllers\\anasayfaController.cs",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Controllers\\anasayfaController.cs",
+              "RelativeToolTip": "imranvize\\Controllers\\anasayfaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:12:56.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OgrenciController.cs",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Controllers\\OgrenciController.cs",
+              "RelativeDocumentMoniker": "imranvize\\Controllers\\OgrenciController.cs",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Controllers\\OgrenciController.cs",
+              "RelativeToolTip": "imranvize\\Controllers\\OgrenciController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:08:29.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\anasayfa\\Index.cshtml",
+              "RelativeDocumentMoniker": "imranvize\\Views\\anasayfa\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\anasayfa\\Index.cshtml",
+              "RelativeToolTip": "imranvize\\Views\\anasayfa\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T15:14:00.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_MainLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeDocumentMoniker": "imranvize\\Views\\Shared\\_MainLayout.cshtml",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\imranvize\\imranvize\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeToolTip": "imranvize\\Views\\Shared\\_MainLayout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T15:12:03.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
